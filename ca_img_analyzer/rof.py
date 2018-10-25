@@ -1,0 +1,2 @@
+def greetings():
+    print("rof")
