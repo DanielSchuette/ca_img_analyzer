@@ -1,0 +1,4 @@
+# ignore build files
+build/
+ca_img_analyzer.egg-info/
+dist/
