@@ -2,3 +2,5 @@
 build/
 ca_img_analyzer.egg-info/
 dist/
+*.whl
+*.tar.gz
