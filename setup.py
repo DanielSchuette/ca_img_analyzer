@@ -9,7 +9,7 @@ setuptools.setup(
     description="""Helper functions that facilitate the analysis
                    of experimental calcium imaging data""",
     license="MIT",
-    packages=["ca_img_analyzer"],
+    packages=setuptools.find_packages(),
     author="Daniel Schuette",
     author_email="d.schuette@online.de",
     long_description=long_description,
