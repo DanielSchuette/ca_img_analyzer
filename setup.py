@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ca_img_analyzer",
-    version="0.0.1",
+    version="0.0.2",
     description="""Helper functions that facilitate the analysis
                    of experimental calcium imaging data""",
     license="MIT",
