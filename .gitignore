@@ -4,3 +4,6 @@ ca_img_analyzer.egg-info/
 dist/
 *.whl
 *.tar.gz
+
+# ignore pycache
+__pycache__
